@@ -1,1 +1,1 @@
-0 16 * * * cd C:\Users\peter\Downloads\AlgoTools-master\AlgoTools-master && python3 commit_bot.py
+0 12 * * * cd C:\Users\peter\Downloads\Accounts\Koos\AlgoTools-master\AlgoTools-master && python3 commit_bot.py
